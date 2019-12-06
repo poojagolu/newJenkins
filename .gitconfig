@@ -1,0 +1,9 @@
+[user]
+	email = pratibhaverma010@gmail.com
+	name = poojagolu
+[branch]
+	autosetuprebase = always
+[color]
+	ui = true
+	status = auto
+	branch = auto
